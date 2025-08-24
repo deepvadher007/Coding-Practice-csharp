@@ -1,0 +1,14 @@
+D:\Coding\Coding-Practice\Test Project\bin\Debug\net8.0\Test Project.exe
+D:\Coding\Coding-Practice\Test Project\bin\Debug\net8.0\Test Project.deps.json
+D:\Coding\Coding-Practice\Test Project\bin\Debug\net8.0\Test Project.runtimeconfig.json
+D:\Coding\Coding-Practice\Test Project\bin\Debug\net8.0\Test Project.dll
+D:\Coding\Coding-Practice\Test Project\bin\Debug\net8.0\Test Project.pdb
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.AssemblyInfoInputs.cache
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.AssemblyInfo.cs
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.csproj.CoreCompileInputs.cache
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.dll
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\refint\Test Project.dll
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.pdb
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\Test Project.genruntimeconfig.cache
+D:\Coding\Coding-Practice\Test Project\obj\Debug\net8.0\ref\Test Project.dll

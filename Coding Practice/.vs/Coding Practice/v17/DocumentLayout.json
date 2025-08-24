@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\New folder\\Coding-Practice\\Coding Practice\\",
+  "WorkspaceRootPath": "D:\\Coding\\Coding-Practice\\Coding Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E696A4A7-7BB9-416C-B0C1-BA02C597E981}|Coding Practice.csproj|d:\\new folder\\new folder\\coding-practice\\coding practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E696A4A7-7BB9-416C-B0C1-BA02C597E981}|Coding Practice.csproj|d:\\coding\\coding-practice\\coding practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E696A4A7-7BB9-416C-B0C1-BA02C597E981}|Coding Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\New folder\\Coding-Practice\\Coding Practice\\Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Coding-Practice\\Coding Practice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\New folder\\New folder\\Coding-Practice\\Coding Practice\\Program.cs",
+              "ToolTip": "D:\\Coding\\Coding-Practice\\Coding Practice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T16:05:22.454Z",
               "EditorCaption": ""

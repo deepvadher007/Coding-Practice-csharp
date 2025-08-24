@@ -1,0 +1,28 @@
+D:\Coding\Practice\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.exe
+D:\Coding\Practice\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.deps.json
+D:\Coding\Practice\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.runtimeconfig.json
+D:\Coding\Practice\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.dll
+D:\Coding\Practice\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.pdb
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.AssemblyInfoInputs.cache
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.AssemblyInfo.cs
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.csproj.CoreCompileInputs.cache
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.dll
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\refint\Coding Practice.dll
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.pdb
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.genruntimeconfig.cache
+D:\Coding\Practice\Coding-Practice\Coding Practice\obj\Debug\net8.0\ref\Coding Practice.dll
+D:\New folder\New folder\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.exe
+D:\New folder\New folder\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.deps.json
+D:\New folder\New folder\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.runtimeconfig.json
+D:\New folder\New folder\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.dll
+D:\New folder\New folder\Coding-Practice\Coding Practice\bin\Debug\net8.0\Coding Practice.pdb
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.AssemblyInfoInputs.cache
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.AssemblyInfo.cs
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.dll
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\refint\Coding Practice.dll
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.pdb
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\Coding Practice.genruntimeconfig.cache
+D:\New folder\New folder\Coding-Practice\Coding Practice\obj\Debug\net8.0\ref\Coding Practice.dll
